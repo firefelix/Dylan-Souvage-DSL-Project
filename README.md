@@ -2,7 +2,8 @@
 
 
 # Cool Project Name
-https://firefelix.github.io/Dylan-Souvage-DSL-Project/
+
+[Link to github page](https://firefelix.github.io/Dylan-Souvage-DSL-Project/ "Project Homepage")
 quick summary of the project
 
 ### Introduction to project
