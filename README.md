@@ -1,6 +1,9 @@
 ![DSL Logo][dsllogo]
 
 
+
+![Data Vis][DataVisLogo]
+
 # Cool Project Name
 
 [Link to github page](https://firefelix.github.io/Dylan-Souvage-DSL-Project/ "Project Homepage")
@@ -30,3 +33,4 @@ process/timeline
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
+[logo]: data-visualization-examples.png "Data Vis Logo"
