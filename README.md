@@ -1,13 +1,12 @@
 ![DSL Logo][dsllogo]
 
-
-
-![Data Vis][datavislogo]
-
 # Cool Project Name
 
 [Link to github page](https://firefelix.github.io/Dylan-Souvage-DSL-Project/ "Project Homepage")
 
+![Data Vis][datavislogo]
+
+# Quick Summary
 quick summary of the project
 
 ### Introduction to project
