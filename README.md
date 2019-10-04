@@ -2,7 +2,7 @@
 
 
 
-![Data Vis][DataVisLogo]
+![Data Vis][datavislogo]
 
 # Cool Project Name
 
@@ -33,4 +33,4 @@ process/timeline
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
-[logo]: data-visualization-examples.png "Data Vis Logo"
+[datavislogo]: data-visualization-examples.png "Data Vis Logo"
