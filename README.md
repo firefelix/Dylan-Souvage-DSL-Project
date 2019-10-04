@@ -1,15 +1,15 @@
 ![DSL Logo][dsllogo]
 
 
-# Title
-Description of contents
+# Cool Project Name
+quick summary of the project
 
-### First header
-Content
+### Introduction to project
+larger summary of the project
 
 ### Second Header
+process/timeline
 
-Content
 
 ### Etc.
  
