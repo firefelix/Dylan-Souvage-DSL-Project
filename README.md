@@ -1,4 +1,4 @@
-![DSL Logo][dsllogo]  ![Tool Logo][toollogo]
+![DSL Logo][dsllogo]
 
 
 # Title
@@ -24,7 +24,6 @@ Content
 
 
 
-
+<!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
-[toollogo]: LOGO-FILENAME-HERE
